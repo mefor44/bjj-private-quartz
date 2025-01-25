@@ -180,8 +180,34 @@ When they get frustrated and let go of your collar to break your pants grip you 
 If they stick to keeping your collar wit stiff arm, just try to work on pushing their leg back  (behind you) and popping out their hook.  After that you can continue with a knee cut.
 ## 6 Leandro Lo knee cut
 [reference video](https://www.youtube.com/watch?v=b-EkG0lvI-8&list=WL&index=26&ab_channel=JonThomasBJJ)
+This is a very dynamic version of a knee cut. Let's discuss how to set it up from [[Headquarters (top)]] position, how to time it from there and how you can do a fast version of this cut.
+### 6.1 Headquarters
+Starting position:
+![[Knee cut pass-69.png|400]]
+The general idea is to open his knee to the outside, then go for a knee cut with and an underhook. There are many essential details that make this pass work.
 
-This is a very fast version of a knee cut. Let's discuss how to set it up from [[Headquarters (top)]] position.
+**For the right leg** you want to firstly lift it up from the floor and the shoot forward to land it on opponent's chest. Then it's easier to turn him to left / right.
+![[Knee cut pass-70.png|307]]![[Knee cut pass-71.png|300]]
+See [this fragment](https://youtu.be/b-EkG0lvI-8?t=155) for more details.
+
+**With your left arm** you want to open his hips to make space for your leg. Cup the knee and pull it to the outside. This should center his hips. Then step out with your left leg, and put a bit more weight on it. See images below.
+![[Knee cut pass-73.png|352]]![[Knee cut pass-74.png|320]]
+
+**For the underhook**: don't go outside the knee with your arm. You want to establish an underhook with your arm inside the opponent's knee. See image below.
+![[Knee cut pass-72.png|300]]
+With this way you won't get blocked by their knee shield.
+
+**In a perfect knee cut** you want to land in chest to chest position (and not on the left side of the opponent). This makes it much more difficult to push you off.
+![[Knee cut pass-75.png|400]]
+
+You want to have your head up during this pass. When your head is up your knee is heavy, and is does good job of opening your opponent's hips.
+
+For finishing tips see [this fragment](https://www.youtube.com/watch?v=b-EkG0lvI-8&list=WL&index=31&ab_channel=JonThomasBJJ).
+### 6.2 Timing
+You can set up this pass as described above but sometimes people panic and pull hard on your collar. This is the perfect timing to hit this pass, as they can literally pull you into the knee cut.
+
+### 6.3 Fast version
+[reference](https://youtu.be/b-EkG0lvI-8?t=645)
 
 ## 7 Other ideas
 ### 7.1 Attack when they sit up

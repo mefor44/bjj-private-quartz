@@ -32,23 +32,23 @@ There are variants of this position based on (left) leg positioning:
 The strongest variant of this position is with [Foot on the hip](#Foot%20on%20the%20hip). Lasso is mainly used for defense purposes (see [Lasso](#Lasso) section).
 
 
-## De la riva hook
+## 1 De la riva hook
 
-### Sweeps
+### 1.1 Sweeps
 1. [[Overhead sweep]] 
 2. [[#Off-balance]]
 
-#### Off-balance
+#### 1.1.1 Off-balance
 To off-balance your opponent place your right foot somewhere on his chest. Use it alongside with your upper body to force opponent to your left. This move is a good entrance to further attacks. There are few options that can happen
 
-### Submissions
+### 1.2 Submissions
 1. [[Triangle choke]]
 2. [[Omoplata]]
-## Lasso
+## 2 Lasso
 When opponents manages to kill our right leg (and starts to push it down in between his legs) we need to establish shallow lasso with our left leg. This can prevent different passes e.g. ([[Knee cut pass]], [[X pass]]). If you fail with applying lasso, and your opponent starts to knee cut, use his sleeve (extend your arm) to limit his mobility and try to reset ([link](https://youtu.be/ScDTeUCQ-Mg?t=419)).
 After freeing right leg, try to put it back into opponent's biceps and you can switch to [Foot on the hip](#Foot%20on%20the%20hip) or [De la riva hook](#De%20la%20riva%20hook).
 
-## Foot on the hip
+## 3 Foot on the hip
 
 **Basic defense against passing**
 People will often try to pass this guard by moving left/right. When that happens, use your left leg (with foot on the hip) to post on the opp's hip and move your hips to follows your opponent.
@@ -56,7 +56,7 @@ People will often try to pass this guard by moving left/right. When that happens
 **Distance management**
 Don't overextend your leg - this will allow your opponent to pass
 
-### Submissions
+### 3.1 Submissions
 - [[Triangle choke]]
 - [[Omoplata]]
 

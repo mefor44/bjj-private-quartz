@@ -17,15 +17,15 @@ Depending on the positions, finishing details are different. Overall mechanism o
 
 Each positons has differnt setup and details:
 
-## [[Closed guard (bottom)]]
+## 1 [[Closed guard (bottom)]]
 ...
-## [[Mount (top)]]
+## 2 [[Mount (top)]]
 ...
-## [[Side control (top)]]
+## 3 [[Side control (top)]]
 ...
-## [[Collar sleeve (bottom)]]
+## 4 [[Collar sleeve (bottom)]]
 
-### V1
+### 4.1 V1
 [reference material](https://www.youtube.com/watch?v=IHgdNWKK1yM&ab_channel=AbsoluteMMAStKilda-Melbourne)  2:20-5:08
 
 Assume you start with collar sleeve with your left foot on the hip and right foot in the biceps (best setup). Firstly you want to break our opponent's posture. Do this by pulling collar and sleeve grips and pushing with foot on the hip. 
@@ -35,7 +35,7 @@ The goal is to [move from this positon to this one](https://youtu.be/IHgdNWKK1yM
 
 When going for triangle remember to lift up your hips high before attacking. Use your points of base (biceps and hip) to make it possible.
 ![[collar-sleeve-triangle3-img.png|400]]
-### V2
+### 4.2 V2
 Keep your hips centered all the time. To hit the triangle, pull opponent's sleeve and lift your hips at the same time. The idea is to trap his elbow over your hip line, to make it difficult to retract the arm.
 
 

@@ -51,5 +51,20 @@ Catch position: to adjust grab pants material, go to the left side. Retract your
 ![[Ankle lock-13.png|500]]
 We still need to improve our arm position. You can do this by using pants grip and bottom leg (push with leg, this will shift opponents foot). Next step is to use right leg, stomp on their hip and go from posting on left elbow to posting on left shoulder. Try to put the front part of your shoulder on the ground.
 ![[Ankle lock-14.png|600]]
-Don't forget to put pressure with your right foot. You it to create more pressure and even to lift your hips up. 
+Don't forget to put pressure with your right foot. You do it to create more pressure (it fine to lift your hips up).
 ### 2.4 Musumeci lock kneeling opponent
+In this section we will cover how to finish ankle lock then opponent is kneeling. Let's assume that we already have a quite good bite on the leg. See position below:
+![[Ankle lock-15.png|600]]
+Make sure that opponent's knee is always bended. This time they can more freely shift the bodyweight and move around. One common escape from this position is rotating the foot inside (exposing the heel). In such case you can try to take a back - either by [[Matrix]] or by  [[X to the back]]. 
+Fixing catch position. Start from grabbing their pants from the second leg. Then take out your bottom leg, and place your foot on their hip. Bottom leg is to push away, top leg (your left leg) is to take weight from opponent's leg and to bend their knee. The procedure is roughly sketched below.
+![[Ankle lock-16.png]]
+The best position you can get is when their heel sits on your chest (see image below):
+![[Ankle lock-17.png|400]]
+To finish this lock rotate your upper body to the left. If your opponent is not tapping go with the usual approach (go on your shoulder, lift your hips, rotate your upper body back).
+
+### 2.5 Musumeci lock standing opponent
+The key here is to get a good catch position. Let's assume that you start from following position (with bad grip).
+![[Ankle lock-18.png|310]]![[Ankle lock-19.png|349]]
+Try to catch opponent's far leg pants and step with your right foot on their hip. Then extend your legs pushing away their hips. It will make their leg lighter, and allow you to slip back with your hand improving your catch position. 
+To finish twist your elbow inwards, extend your hips, and rotate left.
+![[Ankle lock-20.png| 500]]
